@@ -1,7 +1,8 @@
 import os
 import time
 
-
+#This is a Practical exam in my college 
+#We were three participants in this project
 def customer_main_menu():
     print("\n\n\t\t\t********************\n")
     print("\t\t\t*Hello our visitor!*\n")
